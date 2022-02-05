@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-b=p-1j_n$)$=wbtk=ykoo@!l)v2tsc=^#(s-!ectgpuj$ecme@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['taxi-park.herokuapp.com']
 
 
 # Application definition
