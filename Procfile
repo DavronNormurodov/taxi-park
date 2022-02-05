@@ -1,0 +1,1 @@
+web: gunicorn carRenting.wsgi --log-file -
